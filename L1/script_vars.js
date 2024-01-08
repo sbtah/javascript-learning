@@ -1,24 +1,16 @@
 // Values and variables!
-
-console.log('Grzegorz');
-console.log(23);
+let js = 'amazing';
 
 
-// Variable definition
-let firstName = 'Saruman';
+let firstName = 'Grzegorz';
+console.log(firstName);
 console.log(firstName);
 console.log(firstName);
 console.log(firstName);
 
+// 'new' is reserved keyword
+// 'name' is allowed but can be problematic...
+let _new = 27;
 
-let PI = 3.1415;
-
-
-let myFirtsJob = 'Gamer';
-let myCurrentJob = 'Programmer';
-
-
-// Assignments
-let country = 'Poland';
-let continent = 'Europe';
-let population = 'Who the fuck knows...';
+//
+const PI = 3.14;
